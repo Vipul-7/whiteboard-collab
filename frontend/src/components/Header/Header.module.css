@@ -1,0 +1,10 @@
+.main{
+    text-align: center;
+    padding: 2rem;
+    background-color: rgb(91, 63, 26);
+}
+
+.main input{
+    width: 8rem;
+    cursor: pointer;
+}
